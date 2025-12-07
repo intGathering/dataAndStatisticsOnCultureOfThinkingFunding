@@ -1,9 +1,9 @@
 # dataAndStatisticsOnCultureOfThinkingFunding
-This repository will include data, theories, philosophies, ideas, insights and their associated strength of arguments or scientific evidence.
+This repository will include data, theories, philosophies, ideas, insights and figuring out their strength of arguments or scientific evidences.
 When we talk about formulating proclamation, manifesto, theories, ideas etc, what common pattern of problem solving do we see?
 Are such problem solving methodolgies equally implemented when it comes to solving difficult problems distinct to women?
-There will some factors that will serve as barriers to problem solving distinct to women, others will limit the discussion completely, how do we
-find the balance between the two?
+There will be some factors that will serve as barriers to problem solving distinct to women, others will limit the discussion completely, how do
+we find the balance between the two? How do we filter the skills set being funded for men vs women?
 Many people and nations talk about freedom of speech(FOS) and power of human mind, but is human potential with FOS truly utilized to solve 
 the most complex issues?
 
